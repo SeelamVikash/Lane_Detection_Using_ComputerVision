@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/window_image.png "Fit Visual"
 [image6]: ./output_images/previous_fit_img.png "Output"
 [image7]: ./output_images/final_output_of_7.png "Output"
-[video1]: ./project_video_output.mp4 "Video" 
+[video1]: https://youtu.be/X9RJ8_MS6HM "Video" 
 
 
 ### Writeup / README
@@ -120,7 +120,7 @@ To achieve I have written function `path_fill` and uses cv2.polyfill() function.
 
 ####  link to my final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video_output.mp4)
+Here's a [link to my video result](https://youtu.be/X9RJ8_MS6HM)
 
 ---
 
